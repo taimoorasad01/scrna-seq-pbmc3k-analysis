@@ -1,9 +1,6 @@
 # Single-Cell RNA-Seq Analysis of PBMC 3K Dataset
 
 **Author:** Muhammad Taimoor Asad  
-**Registration Number:** 473749  
-**Institution:** School of Interdisciplinary Engineering & Sciences (SINES), NUST  
-**Course:** BS Bioinformatics
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Scanpy](https://img.shields.io/badge/Scanpy-1.10%2B-orange)](https://scanpy.readthedocs.io/)
